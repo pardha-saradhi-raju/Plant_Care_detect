@@ -1,0 +1,2 @@
+E:/Plant_care_detect/app/trained_model filter=lfs diff=lfs merge=lfs -text
+E:/Plant_care_detect/app/trained_model filter=lfs diff=lfs merge=lfs -text
