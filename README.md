@@ -1,9 +1,6 @@
 ﻿# Plant Disease Prediction using CNN
-
-
 ---
 
-# Plant Disease Prediction using CNN
 
 This repository is about building an image classifier using Convolutional Neural Networks (CNN) in Python for Plant Disease Prediction.
 
